@@ -16,7 +16,7 @@ This project demonstrates end-to-end data analysis using SQL, Python, and Power 
 - Top Products & Customers
 
 ## 🔹 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 🔹 Insights
 - Atlantic region generates highest revenue
